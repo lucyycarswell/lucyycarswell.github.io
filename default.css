@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+}
+
+p{
+    text-indent: 50px;
+    font-weight:bold
+}
+
+h1{
+    color:cadetblue;
+    font-size: 24;
+}
